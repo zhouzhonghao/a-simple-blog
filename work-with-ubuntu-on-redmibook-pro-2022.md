@@ -10,4 +10,6 @@
 * Google Chrome
 * Microsoft Visual Studio Code
 * Alibaba DingTalk
+* Tencent Meeting
+  > 使用腾讯会议需要禁用 wayland
 * Baidu NetDisk
