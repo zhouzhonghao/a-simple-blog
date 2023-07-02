@@ -9,7 +9,7 @@
 ### 可用的软件
 * Google Chrome
 * Microsoft Visual Studio Code
-* Microsoft Office
+* Microsoft Office (online service)
 * aMule
 * (Alibaba) DingTalk
 * Tencent Meeting
