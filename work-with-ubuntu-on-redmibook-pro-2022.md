@@ -5,3 +5,6 @@
 现在是时候迁移 Linux 了。我购买了红米笔记本，试试看。
 
 > 我购买的红米笔记本的型号是 RedmiBook Pro 15 2022
+
+可用的软件有
+Microsoft Visual Studio Code
