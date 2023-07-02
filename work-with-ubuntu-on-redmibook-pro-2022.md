@@ -6,5 +6,6 @@
 
 > 我购买的红米笔记本的型号是 RedmiBook Pro 15 2022
 
-可用的软件有
-Microsoft Visual Studio Code
+# 可用的软件
+* Google Chrome
+* Microsoft Visual Studio Code
